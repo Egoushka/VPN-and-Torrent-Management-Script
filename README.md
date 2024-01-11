@@ -21,7 +21,7 @@ When you run the script for the first time, it will prompt you to enter these pa
 ## Usage
 ### Running the Script:
 
-#### Just click on it
+#### Just double click on it
   The title said everything
   
 #### Via CMD
