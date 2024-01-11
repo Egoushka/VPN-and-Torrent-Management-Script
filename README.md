@@ -36,8 +36,8 @@ When you run the script for the first time, it will prompt you to enter these pa
 
 #### Creating shortcuts:
   * Right-click on the script file.
-  * Select Send to > Desktop (create shortcut).
-  * Right-click on the new shortcut on your desktop and select Properties.
+  * Select Сreate shortcut.
+  * Right-click on the new shortcut and select Properties.
   * In the Target field, add **auto vpn** or **auto torrent** at the end of the path to create a shortcut that automatically starts either the VPN or the torrent client.
 
 Here is example of Target field: `C:\Users\%USERPROFILE%\Documents\VPN_Torrent_Script\Interactive_VPN&&Torrent_Script.bat auto vpn`
