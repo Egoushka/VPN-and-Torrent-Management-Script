@@ -26,11 +26,11 @@ When you run the script for the first time, it will prompt you to enter these pa
   * Run the script by typing its name and pressing Enter.
 
 ### Menu Options:
-  1. Start VPN: Closes the torrent client and starts the VPN.
-  2. Start Torrent Client: Closes the VPN and starts the torrent client.
-  3. Set Torrent Client: Allows you to set or change the path for the torrent client.
-  4. Set VPN Client: Allows you to set or change the path for the VPN client.
-  5. Exit: Closes the script.
+  * Start VPN: Closes the torrent client and starts the VPN.
+  * Start Torrent Client: Closes the VPN and starts the torrent client.
+  * Set Torrent Client: Allows you to set or change the path for the torrent client.
+  * Sett VPN Client: Allows you to set or change the path for the VPN client.
+  * Exit: Closes the script.
 
 ### Automating with Shortcuts:
 
