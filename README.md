@@ -39,7 +39,7 @@ Just double click on it.
 
 Here is example of Target field: `C:\SomeFolde\BlaBlaBla\Interactive_VPN&&Torrent_Script.bat auto vpn`
 #### Use existing shortcuts 
-  Also, you can change target of existing shortcuts: write in search of windows your desired app name(or just select shortcut on desktop, depends on how you using them) and 
+  Also, you can change target of existing shortcuts: write in search of windows your desired app name(or just select shortcut on desktop, depends on how you using them) and edit target as higher.
 
 ### Auto-Start with System:
 To make the script run when your system starts:
