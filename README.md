@@ -20,14 +20,7 @@ When you run the script for the first time, it will prompt you to enter these pa
 
 ## Usage
 ### Running the Script:
-
-#### Just double click on it
-  The title said everything
-  
-#### Via CMD
-  * Open Command Prompt.
-  * Navigate to the directory where the script is saved.
-  * Run the script by typing its name and pressing Enter.
+Just double click on it.
 
 ### Menu Options:
   * Start VPN: Closes the torrent client and starts the VPN.
